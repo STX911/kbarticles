@@ -1,0 +1,104 @@
+
+ol {
+	text-indent : 2px;
+	margin-left : 25px;
+} 
+
+ul {
+	text-indent : 2px;
+	margin-left : 25px;
+} 
+
+
+.link0{
+	COLOR: #656565;
+	FONT-FAMILY: Verdana;
+	FONT-WEIGHT: BOLD;
+	TEXT-DECORATION: NONE;
+}		
+.link0:HOVER{
+	COLOR: #656565;
+	FONT-FAMILY: Verdana;
+	FONT-WEIGHT: BOLD;
+	TEXT-DECORATION: NONE;
+	BACKGROUND: #F4F4F4;
+	DISPLAY: BLOCK;}
+	
+.link1{COLOR: #353B91;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-WEIGHT: BOLD;TEXT-DECORATION: UNDERLINE;FONT-SIZE: 10pt;}
+.link1:HOVER{
+	COLOR: #A8A8A8;
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+	FONT-WEIGHT: NONE;
+	TEXT-DECORATION: UNDERLINE;
+
+.link3{
+	COLOR: #353B90;
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+	FONT-WEIGHT: NONE;
+	TEXT-DECORATION: UNDERLINE;
+}		
+.link3:HOVER{
+	COLOR: #A8A8A8;
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+	FONT-WEIGHT: NONE;
+	TEXT-DECORATION: UNDERLINE;
+}
+
+.txtbox{
+    border-top: 1px solid #919191;
+    border-bottom: 1px solid #919191;
+    border-left: 1px solid #919191;
+    border-right: 1px solid #919191;
+    background-color: #FFFFFF;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 10pt;    
+    color: #000000;
+    background-image: url(../_images/_txtbox/txtshade.gif);
+}
+
+.txtselect{
+    border-top: 1px solid #919191;
+    border-bottom: 1px solid #919191;
+    border-left: 1px solid #919191;
+    border-right: 1px solid #919191;
+    background-color: #FFFFFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;    
+    color: #000000;		
+}
+
+.sz7	{COLOR: Black;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 7pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz8	{COLOR: Black;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 8pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz9	{COLOR: Black;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 9pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz10   {COLOR: Black;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 10pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz11   {COLOR: Black;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 11pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz12   {COLOR: Black;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 12pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+
+.sz7w 	{COLOR: White;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 7pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz8w 	{COLOR: White;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 8pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz9w 	{COLOR: White;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 9pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz10w 	{COLOR: White;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 10pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz11w 	{COLOR: White;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 11pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz12w 	{COLOR: White;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 12pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+
+.sz7r	{COLOR: #990000;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 7pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz8r	{COLOR: #990000;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 8pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz9r	{COLOR: #990000;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 9pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz10r	{COLOR: #990000;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 10pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz11r	{COLOR: #990000;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 11pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz12r	{COLOR: #990000;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 12pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+
+.sz7g	{COLOR: #BDBDBD;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 7pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz8g	{COLOR: #BDBDBD;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 8pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz9g	{COLOR: #BDBDBD;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 9pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz10g	{COLOR: #BDBDBD;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 10pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz11g	{COLOR: #BDBDBD;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 11pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz12g	{COLOR: #BDBDBD;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 12pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+
+.sz7b	{COLOR: #353B90;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 7pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz8b	{COLOR: #353B90;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 8pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz9b	{COLOR: #353B90;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 9pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz10b	{COLOR: #353B90;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+.sz11b	{COLOR: #353B90;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 11pt;FONT-WEIGHT: none;TEXT-DECORATION: none;}
+.sz12b	{COLOR: #353B90;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 12pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+.sz14b	{COLOR: #353B90;FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;FONT-SIZE: 14pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
